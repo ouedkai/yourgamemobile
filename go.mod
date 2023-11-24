@@ -1,4 +1,4 @@
-module yourgamemobile
+module github.com/ouedkai/yourgamemobile
 
 go 1.19
 
