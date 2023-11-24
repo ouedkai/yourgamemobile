@@ -1,4 +1,4 @@
-package yourgamemobile
+package example
 
 import (
 	"github.com/hajimehoshi/ebiten/v2/mobile"
